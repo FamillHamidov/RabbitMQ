@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSignalR", "MVCSignalR\MVCSignalR.csproj", "{6A95FB83-E20E-45AF-9889-538B581410F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMessage", "ReadMessage\ReadMessage.csproj", "{F15AB64F-E3BF-4A57-A02F-97F958B49517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A95FB83-E20E-45AF-9889-538B581410F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A95FB83-E20E-45AF-9889-538B581410F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A95FB83-E20E-45AF-9889-538B581410F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A95FB83-E20E-45AF-9889-538B581410F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15AB64F-E3BF-4A57-A02F-97F958B49517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15AB64F-E3BF-4A57-A02F-97F958B49517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15AB64F-E3BF-4A57-A02F-97F958B49517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15AB64F-E3BF-4A57-A02F-97F958B49517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {192FB99A-8916-405A-B5F7-110B42666B06}
+	EndGlobalSection
+EndGlobal
